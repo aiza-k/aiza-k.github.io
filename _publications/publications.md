@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+See a full list of articles on [my Google Scholar profile](https://scholar.google.com/citations?hl=en&user=81Rxy1IAAAAJ&view_op=list_works&authuser=1).
+
 ## Journal Articles
 
 1. Kabeer, Aiza and McGuire, Luke (2026). “A numerical modeling investigation of rainfall intensity‑duration thresholds
