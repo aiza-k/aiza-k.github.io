@@ -19,13 +19,15 @@ Landforms. In review.
 
 ## Preprints
 
-1. **Title of Your Preprint.** Your Name, Coauthor One. *arXiv preprint arXiv:0000.00000*, 2026. [arXiv](https://arxiv.org/abs/0000.00000)
+1. **Title of Your Preprint.** Your Name, Coauthor One. *arXiv preprint arXiv:0000.00000*, 2026. [arXiv](https://arxiv.org/abs/0000.00000) -->
 
 ## Conference Presentations
 
-1. **Title of Your Talk.** *Conference Name*, City, State, Month 2026. [Slides](/files/slides1.pdf)
+1. Kabeer, Aiza, Li, Yang, Scott, Eric, Wang, Jonathan A, Green, Julia K., Devine, Charles, and Moore, David JP (2024).
+“Using Clustering Analysis to Compare Satellite‑based Aboveground Biomass Data Products”. In: AGU Meeting Fall
+24. Poster Presentation.
 
-2. **Title of Your Poster.** *Conference Name*, City, Country, Month 2025. (Poster)
+<!-- 2. **Title of Your Poster.** *Conference Name*, City, Country, Month 2025. (Poster)
 
 ## Other
 
