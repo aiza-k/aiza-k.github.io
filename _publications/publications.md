@@ -24,8 +24,7 @@ Landforms. In review.
 ## Conference Presentations
 
 1. Kabeer, Aiza, Li, Yang, Scott, Eric, Wang, Jonathan A, Green, Julia K., Devine, Charles, and Moore, David JP (2024).
-“Using Clustering Analysis to Compare Satellite‑based Aboveground Biomass Data Products”. In: AGU Meeting Fall
-24. Poster Presentation.
+“Using Clustering Analysis to Compare Satellite‑based Aboveground Biomass Data Products”. In: AGU Meeting Fall 24. Poster Presentation.
 
 <!-- 2. **Title of Your Poster.** *Conference Name*, City, Country, Month 2025. (Poster)
 
