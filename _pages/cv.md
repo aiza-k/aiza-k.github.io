@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Full CV (PDF)](/files/cv.pdf)
+[Full CV (PDF)](/files/CV.pdf)
 
 Education
 ======
@@ -47,8 +47,8 @@ Education
   
 Teaching
 ======
-  Teaching Assistant in classes such as Business Calculus and 
+  Teaching Assistant in classes such as Business Calculus and Exploring and Understanding Patterns, Functions, and Modeling for Elementary Teachers.
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* AWM (American Women in Mathematics) Secretary, (2026-2027)
